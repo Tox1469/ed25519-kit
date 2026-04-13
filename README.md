@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/ed25519-kit/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/ed25519-kit/actions)
+[![License](https://img.shields.io/github/license/Tox1469/ed25519-kit?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/ed25519-kit?style=flat-square)](https://github.com/Tox1469/ed25519-kit/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/ed25519-kit?style=flat-square)](https://github.com/Tox1469/ed25519-kit/stargazers)
+
+---
+
 # ed25519-kit
 
 Helpers minimos para assinatura Ed25519 usando o modulo `crypto` nativo do Node.js.
