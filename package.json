@@ -1,0 +1,18 @@
+{
+  "name": "ed25519-kit",
+  "version": "1.0.0",
+  "description": "Helpers de assinatura Ed25519 (gerar par, assinar, verificar)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["ed25519", "sign", "verify", "eddsa", "crypto"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "@types/node": "^20.11.0"
+  }
+}
